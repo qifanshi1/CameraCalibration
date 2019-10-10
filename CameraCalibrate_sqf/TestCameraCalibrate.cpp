@@ -1,3 +1,4 @@
+//利用opencv实现相机标定
 #include<opencv2/opencv.hpp>
 #include<vector>
 #include<iostream>
